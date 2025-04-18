@@ -1,0 +1,32 @@
+body {
+    background-color: rgb(19, 19, 20);
+    color: rgb(234, 241, 255)
+}
+
+a {
+    color: aliceblue;
+    position: relative;
+    top: 0px;
+    left: 160px;
+    text-decoration: none;
+}
+
+iframe {
+    position: relative;
+    left: 104px;
+}
+
+h1 {
+    position: relative;
+    left: 180px;
+}
+
+.botao {
+    position: relative;
+    left: 299px;
+}
+
+.curso {
+    position: relative;
+    left: 250px;
+}
